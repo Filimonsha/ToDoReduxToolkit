@@ -1,5 +1,20 @@
 .App {
   text-align: center;
+  h4 {
+    color: red;
+    .main-wrap & {
+      color: #61dafb;
+    }
+  }
+  .header {
+    background-color: #3c725cb6;
+  }
+}
+.aaaf {
+  font: {
+    size: 36px;
+    style: italic;
+  }
 }
 
 .App-logo {
